@@ -9,8 +9,9 @@ The 62 target classes consist of characters in a single font (numbers, lowercase
 
 
 ![ Examples of the 'E' character across $D/r_0 = 1$ through $5$.](Figure_1b.png  " Examples of the 'E' character across $D/r_0 = 1$ through $5$.")
+Examples of the 'E' character across $D/r_0 = 1$ through $5$
 
- 
+ https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1
 
 # References
 
