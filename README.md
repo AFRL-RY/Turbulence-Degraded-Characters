@@ -13,11 +13,10 @@ Six examples of the 'E' character for in the <img src="https://render.githubuser
 
 Examples of the 'E' character across <img src="https://render.githubusercontent.com/render/math?math=D/r_0 ="> 1 through 5.
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 # Citation
 When reporting results that use the TDC dataset, please cite:
-Daniel A. LeMaster,Steven Leung, and Olga L. Mendoza-Schrock, "Joint Object Classification and Turbulence Strength Estimation using Convolutional Neural Networks."  Currently in peer review.
+
+Daniel A. LeMaster, Steven Leung, and Olga L. Mendoza-Schrock, "Joint Object Classification and Turbulence Strength Estimation using Convolutional Neural Networks."  Currently in peer review.
 
 # References
 
