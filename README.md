@@ -15,6 +15,10 @@ Examples of the 'E' character across <img src="https://render.githubusercontent.
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
+# Citation
+When reporting results that use the TDC dataset, please cite:
+Daniel A. LeMaster,Steven Leung, and Olga L. Mendoza-Schrock, "Joint Object Classification and Turbulence Strength Estimation using Convolutional Neural Networks."  Currently in peer review.
+
 # References
 
 [1] Lachinova, Svetlana L., et al. "Anisoplanatic imaging through atmospheric turbulence: Brightness function approach." Atmospheric Optics: Models, Measurements, and Target-in-the-Loop Propagation. Vol. 6708. International Society for Optics and Photonics, 2007.
