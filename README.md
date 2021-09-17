@@ -93,8 +93,8 @@ easier and to make it possible for a researcher to select the data they need.
 # Citation
 When reporting results that use the TDC dataset, please cite:
 
-Daniel A. LeMaster, Steven Leung, and Olga L. Mendoza-Schrock, "Joint Object Classification and Turbulence Strength Estimation using Convolutional Neural Networks."  Currently in peer review.
-
+LeMaster, Daniel A., Steven Leung, and Olga L. Mendoza-Schrock. "Joint object classification and turbulence strength estimation using convolutional neural networks." Applied Optics 60.25 (2021): G40-G48.
+https://www.osapublishing.org/ao/abstract.cfm?uri=ao-60-25-G40
 # References
 
 [1] Lachinova, Svetlana L., et al. "Anisoplanatic imaging through atmospheric turbulence: Brightness function approach." Atmospheric Optics: Models, Measurements, and Target-in-the-Loop Propagation. Vol. 6708. International Society for Optics and Photonics, 2007.
