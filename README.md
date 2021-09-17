@@ -66,7 +66,7 @@ To list the directory of the sdms-turbulence-degraded-characters bucket use the 
 s3cmd --requester-pays ls s3://sdms-turbulence-degraded-characters/
 ```
 
-Please note all the UNICORM 2008 data products are in a single directory.
+Please note all the turbulence degraded characters data products are in a single directory.
 
 To determine the amount of disk space in the sdms-turbulence-degraded-characters bucket use the command:
 
